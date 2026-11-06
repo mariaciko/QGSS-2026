@@ -4,4 +4,4 @@
 Lab 1: Building Quantum Circuits for Real Hardware \
 Lab 2 — Noise, Backends, and Benchmarking in Qiskit \
 Lab 3: Your New Tool For Quantum Advantage \
-Lab 4: Towards quantum advantage \
+Lab 4: Towards quantum advantage 
